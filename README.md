@@ -1,6 +1,6 @@
 # flutterdatetimepicker
 
-Read complete article visit on https://navoki.com/date-time-picker-using-flutter/?preview=true&_thumbnail_id=9581
+Read complete article visit on https://navoki.com/date-time-picker-using-flutter/
 
 ## Getting Started
 
